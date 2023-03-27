@@ -5,7 +5,7 @@ INSTRUCTIONS:
 
 From Terminal, run this file:
 
-python anomalclasses.py
+python animalclasses.py
 
 Animals will bark or meow three times for a food they like, and only once for
 the foods they don't like.
